@@ -1,8 +1,11 @@
 -lib 
 
 --models    #ปั้นmodel from josn 
+
     -department     #folder department
+
         -department_list_result.dart    #file model department list
+
         -department_product_list_result.dart    #file model department product list
     -http_error.dart    #file model http error 
 --repositories #จัดการdata from api
