@@ -1,7 +1,5 @@
 -lib 
-
 --models    #ปั้นmodel from josn 
-
     -department     #folder department
 
         -department_list_result.dart    #file model department list
